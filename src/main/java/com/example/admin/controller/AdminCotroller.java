@@ -27,6 +27,7 @@ public class AdminCotroller {
     /*@GetMapping("/get/{id}")
     public Admin getAdmin(@PathVariable int id){
         return adminService.getAdmin(id);
+
     ?}*/
 
     @GetMapping("/get")
